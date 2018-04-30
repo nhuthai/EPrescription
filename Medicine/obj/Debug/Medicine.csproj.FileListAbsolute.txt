@@ -1,0 +1,11 @@
+C:\Users\Tien\source\repos\Medicine\Medicine\obj\Debug\Medicine.csprojResolveAssemblyReference.cache
+C:\Users\Tien\source\repos\Medicine\Medicine\obj\Debug\Medicine.DoctorNote.resources
+C:\Users\Tien\source\repos\Medicine\Medicine\obj\Debug\Medicine.Properties.Resources.resources
+C:\Users\Tien\source\repos\Medicine\Medicine\obj\Debug\Medicine.csproj.GenerateResource.Cache
+C:\Users\Tien\source\repos\Medicine\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\Tien\source\repos\Medicine\Medicine\bin\Debug\Medicine.exe.config
+C:\Users\Tien\source\repos\Medicine\Medicine\bin\Debug\Medicine.exe
+C:\Users\Tien\source\repos\Medicine\Medicine\bin\Debug\Medicine.pdb
+C:\Users\Tien\source\repos\Medicine\Medicine\obj\Debug\Medicine.exe
+C:\Users\Tien\source\repos\Medicine\Medicine\obj\Debug\Medicine.pdb
+C:\Users\Tien\source\repos\Medicine\Medicine\obj\Debug\Medicine.PatientPrescription.resources
